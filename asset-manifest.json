@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Pierogiez/static/css/main.8d08402c.css",
+    "main.js": "/Pierogiez/static/js/main.e4fd493c.js",
+    "static/js/453.921adff5.chunk.js": "/Pierogiez/static/js/453.921adff5.chunk.js",
+    "static/media/1.jpg": "/Pierogiez/static/media/1.7a7bd027ff2593bd92b6.jpg",
+    "static/media/4.jpg": "/Pierogiez/static/media/4.7034a26359b30a52e598.jpg",
+    "static/media/2.jpeg": "/Pierogiez/static/media/2.2b1ea3e4933592e48911.jpeg",
+    "static/media/3.jpg": "/Pierogiez/static/media/3.06067e3c79e7eee6e14d.jpg",
+    "index.html": "/Pierogiez/index.html",
+    "main.8d08402c.css.map": "/Pierogiez/static/css/main.8d08402c.css.map",
+    "main.e4fd493c.js.map": "/Pierogiez/static/js/main.e4fd493c.js.map",
+    "453.921adff5.chunk.js.map": "/Pierogiez/static/js/453.921adff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d08402c.css",
+    "static/js/main.e4fd493c.js"
+  ]
+}
